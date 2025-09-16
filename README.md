@@ -20,7 +20,7 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)  
-![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)  
+![ReactJS](https://img.shields.io/badge/ReactJS-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)  
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)  
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white)  
