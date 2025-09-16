@@ -20,7 +20,7 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)  
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)  
+![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)  
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)  
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)  
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white)  
@@ -45,10 +45,11 @@
 ![YOLO](https://img.shields.io/badge/YOLO-AI-blueviolet)  
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?logo=openai&logoColor=white)  
 
-**Tools:**  
+**Tools:**   
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white)  
 ![Scrum](https://img.shields.io/badge/Scrum-Agile-brightgreen)  
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?logo=jira&logoColor=white)  
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)  
 
 ---
 
