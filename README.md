@@ -66,18 +66,6 @@
 
 ---
 
-## ✍️ Random Dev Quote  
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
-
----
-
-## 🔝 Top Contributed Repo  
-
-![](https://github-contributor-stats.vercel.app/api?username=haiminh287&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
-
----
-
 ## 📂 Featured Repositories  
 
 [![Book Management System](https://github-readme-stats.vercel.app/api/pin/?username=haiminh287&repo=ManagerBoookFinal&theme=tokyonight)](https://github.com/haiminh287/ManagerBoookFinal)  
